@@ -13,6 +13,8 @@ import java.util.ArrayList;
 /* N'ayant aucune possibilité de tester,
 les exercices 2 à 3 me sont pas très accessibles.
 L'exercice 1 non plus d'ailleurs.
+Et n'ayant pas pu tester de la semaine, le contenu
+ne sera probablement pas probant.
  */
 
 
