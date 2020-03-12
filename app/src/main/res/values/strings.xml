@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ListeContact</string>
+    <string name="t_l_phone_ex_06xxxxxxxx">Téléphone (ex: 06XXXXXXXX)</string>
+    <string name="nom_ex_nom">Nom (ex: NOM)</string>
+    <string name="pr_nom_ex_pr_nom">Prénom (ex: Prénom)</string>
 </resources>
